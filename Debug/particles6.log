@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\bruno godefroy\downloads\dh2323-labs-master\dh2323-labs-master\lab2\particles\main.cpp(215): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  particles6.vcxproj -> C:\Users\Bruno Godefroy\Downloads\DH2323-labs-master\DH2323-labs-master\lab2\particles\Debug\particles6.exe
+  particles6.vcxproj -> C:\Users\Bruno Godefroy\Downloads\DH2323-labs-master\DH2323-labs-master\lab2\particles\Debug\particles6.pdb (Partial PDB)
